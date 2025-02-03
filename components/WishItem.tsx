@@ -114,7 +114,7 @@ const WishItem = ({
             className="max-sm:hidden"
             onClick={() => deleteItemFromWishlist(id)}
           >
-            remove from the wishlist
+            Remove from the wishlist
           </span>
         </button>
       </td>
